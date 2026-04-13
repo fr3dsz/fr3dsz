@@ -36,7 +36,6 @@ I am a 3rd year Computer Science student at Mapúa University Makati Campus. I e
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -82,21 +81,24 @@ A Python-based project exploring the fundamentals of **lexical analysis and pars
 
 ## Certifications
 
-![Google Cloud](https://img.shields.io/badge/Introduction_to_AI_&_ML_on_Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cloud](https://img.shields.io/badge/Introduction_to_Cloud_Computing-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science_Methodology-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI_for_Mobile_App_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)
+## Certifications
 
----
+<a href="https://coursera.org/share/4e005e01ef964ae872880ea66572923f">
+  <img src="https://img.shields.io/badge/Introduction_to_AI_&_ML_on_Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</a>
 
-## GitHub Stats
+<a href="https://coursera.org/share/2c2182e40cd0732b5cd357b4bfea5444">
+  <img src="https://img.shields.io/badge/Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" width="48%" />
-</p>
+<a href="https://coursera.org/share/dc7892dea64026c4db16abbd592e7fe7">
+  <img src="https://img.shields.io/badge/Introduction_to_Cloud_Computing-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
+<a href="https://coursera.org/share/1a8edc714cef8269b81fe5a117083f98">
+  <img src="https://img.shields.io/badge/Data_Science_Methodology-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
+
+<a href="https://coursera.org/share/4be629736defbab9578a05a50f116cbb">
+  <img src="https://img.shields.io/badge/GenAI_for_Mobile_App_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
