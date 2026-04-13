@@ -81,8 +81,6 @@ A Python-based project exploring the fundamentals of **lexical analysis and pars
 
 ## Certifications
 
-## Certifications
-
 <a href="https://coursera.org/share/4e005e01ef964ae872880ea66572923f">
   <img src="https://img.shields.io/badge/Introduction_to_AI_&_ML_on_Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
