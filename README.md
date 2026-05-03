@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a 3rd year Computer Science student at Mapúa University Makati Campus. I enjoy building web and mobile applications through academic projects and I am continuously developing my skills as a developer.
+I am a 3rd year Computer Science student at Mapúa University Makati Campus. I enjoy building web and mobile applications through academic projects and personal work, and I am continuously developing my skills as a full stack developer.
 
 ---
 
@@ -35,21 +35,39 @@ I am a 3rd year Computer Science student at Mapúa University Makati Campus. I e
 
 **Frameworks & Libraries**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
 
-**Databases & Platforms**
+**Databases & CMS**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+
+**Platforms & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## Projects
+
+### Bedazzled Nails — Full-Stack E-Commerce Platform
+A production-ready e-commerce web application built for a Philippine nail extension business. Features a full customer shopping experience — browsing, filtering by nail shape and color, cart management, and checkout via **PayMongo** (GCash, Maya, card, InstaPay). Includes a real-time **custom admin panel** for managing inventory and orders, built with the Sanity App SDK. Deployed on Vercel.
+
+`Next.js` `TypeScript` `Sanity CMS` `PayMongo` `Clerk` `Zustand` `Tailwind CSS` `Vercel`
+
+---
 
 ### TipidTracker — Financial Web Application
 A fully responsive Expense Tracker built with the **MERN stack**, featuring JWT authentication, income and expense management with category tracking, interactive data visualizations, and Excel export functionality.
