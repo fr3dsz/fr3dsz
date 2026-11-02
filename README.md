@@ -2,7 +2,9 @@
 
 # Luis Conda
 
-**Full-stack developer** · Junior R&D Engineer at eTap Inc. · Manila, PH
+**Full-stack developer** on personal projects · **Frontend & mobile developer** as Junior R&D Engineer at eTap Inc.
+
+Manila, PH
 
 <a href="https://fr3dsz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/luis-frederick-conda-33a836336"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,9 +16,9 @@
 
 ### Projects
 
-**Done Means Proven** · AI engineering workflow
+**Done Means Proven** · Multi-agent delivery pipeline
 
-An engineering setup that makes my AI coding agent prove its work before anything ships. Custom skills, specialized agents, safety hooks that block risky actions (reading secrets, force-pushing), and Python scripts that run the final checks, with 180+ automated tests covering the tooling itself.
+Designed a multi-agent software delivery pipeline on Claude Code: nine specialized agents with scoped permissions, safety hooks, and a merge gate that blocks out-of-scope changes, backed by 180+ automated tests.
 
 `Claude Code` `Python` `Bash` `TypeScript` · [Case study](https://fr3dsz-portfolio.vercel.app/done-means-proven/)
 
